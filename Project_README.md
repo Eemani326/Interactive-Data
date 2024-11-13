@@ -35,17 +35,6 @@ Install the dependencies with:
 pip install pandas matplotlib seaborn numpy
 ```
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the notebook:
-   ```bash
-   jupyter notebook Bike_Rental_phase_1.ipynb
-   ```
-3. Run each cell in sequence to execute the code and reproduce the analysis.
 
 ## Data
 
@@ -66,21 +55,6 @@ This project uses a bike rental dataset (details on source and acquisition to be
 ## Results
 
 The analysis reveals key factors affecting bike rental demand and highlights opportunities for further analysis and potential predictive modeling.
-
-## Future Work
-
-In subsequent phases, we aim to:
-- Develop predictive models to forecast bike rental demand.
-- Experiment with different feature sets and model tuning.
-- Evaluate model performance and refine based on results.
-
-## Contributing
-
-Feel free to contribute by submitting a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
